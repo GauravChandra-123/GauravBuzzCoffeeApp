@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">GauravBuzzCoffeeApp</string>
+    <string name="applogo">CoffeBuzz</string>
+    <string-array name="options">
+
+        <item>Drink</item>
+        <item>Food</item>
+        <item>Others</item>
+    </string-array>
+</resources>
